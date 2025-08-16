@@ -1,5 +1,8 @@
 # capacitor-facebook-events
 
+Fork from [capacitor-facebook-app-events](https://github.com/Linknpay/capacitor-facebook-events)
+Updated to support Capacitor 7 and FacebookSDK 18.
+
 Facebook events tracking in Capacitor applications
 
 ## Install
